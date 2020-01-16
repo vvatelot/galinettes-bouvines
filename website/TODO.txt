@@ -1,0 +1,6 @@
+- Descriptions des projets
+- Inscription à la newsletter ?
+- Analystics ?
+- FAQ ?
+- Logo de la mairie de Bouvines ?
+- Fix affichage smartphone
