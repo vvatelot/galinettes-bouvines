@@ -17,7 +17,7 @@ jobs:
       - name: Déploiement FTP
         uses: sand4rt/ftp-deployer@v1.3
         with:
-          host: ftp.galinettes-bouvines.fr
+          host: galinettes-bouvines.fr
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           # The local folder location
